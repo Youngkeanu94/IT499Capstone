@@ -1,3 +1,5 @@
+CREATE DATABASE Capstone
+
 USE Capstone
 CREATE TABLE Orders (
     OrderID INT IDENTITY(1,1) PRIMARY KEY,
