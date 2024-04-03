@@ -10,4 +10,4 @@ Install-Package Microsoft.EntityFrameworkCore.Design
 Add-Migration InitialCreate  
 Update-Database  
 
-Finally, restart Visual Studios (might not be necessary, but I had to for it to work properly)
+Finally, restart Visual Studio (might not be necessary, but I had to for it to work properly)
